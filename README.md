@@ -5,3 +5,5 @@
 - Cena 2: Tabg Lung não sabe italiano
 
 - Cena 3: Eles se encontram
+
+- Cena 4: O Bruce Lee derrota o Chuck Norris
